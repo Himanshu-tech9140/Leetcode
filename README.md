@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0007-reverse-integer) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
