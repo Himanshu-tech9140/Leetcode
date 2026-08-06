@@ -2,73 +2,37 @@ class Solution {
 
     public String reverseWords(String s) {
 
-        // Step 1: Convert String to char array
-        char[] arr = s.toCharArray();
+        StringBuilder ans = new StringBuilder();
 
-        // Step 2: Remove extra spaces
-        int len = removeSpaces(arr);
+        int i = s.length() - 1;
 
-        // Step 3: Reverse the whole string
-        reverse(arr, 0, len - 1);
-
-        // Step 4: Reverse each word
-        int start = 0;
-        for (int end = 0; end <= len; end++) {
-
-            if (end == len || arr[end] == ' ') {
-                reverse(arr, start, end - 1);
-                start = end + 1;
-            }
-        }
-
-        // Step 5: Convert char array back to String
-        return new String(arr, 0, len);
-    }
-
-    // Reverse characters from left to right
-    private void reverse(char[] arr, int left, int right) {
-
-        while (left < right) {
-
-            char temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-
-            left++;
-            right--;
-        }
-    }
-
-    // Remove leading, trailing and multiple spaces
-    private int removeSpaces(char[] arr) {
-
-        int i = 0;
-        int j = 0;
-        int n = arr.length;
-
-        while (i < n) {
+        while (i >= 0) {
 
             // Skip spaces
-            while (i < n && arr[i] == ' ') {
-                i++;
+            while (i >= 0 && s.charAt(i) == ' ') {
+                i--;
             }
 
-            // Copy one word
-            while (i < n && arr[i] != ' ') {
-                arr[j++] = arr[i++];
+            if (i < 0)
+                break;
+
+            // End of current word
+            int j = i;
+
+            // Move to beginning of the word
+            while (i >= 0 && s.charAt(i) != ' ') {
+                i--;
             }
 
-            // Skip spaces after the word
-            while (i < n && arr[i] == ' ') {
-                i++;
+            // Add space before every word except the first
+            if (ans.length() > 0) {
+                ans.append(" ");
             }
 
-            // Add one space if another word exists
-            if (i < n) {
-                arr[j++] = ' ';
-            }
+            // Append current word
+            ans.append(s.substring(i + 1, j + 1));
         }
 
-        return j;
+        return ans.toString();
     }
 }
