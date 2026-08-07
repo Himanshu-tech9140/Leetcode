@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -48,4 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
