@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -93,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
