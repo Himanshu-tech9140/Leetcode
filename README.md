@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0055-jump-game) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0046-permutations) |
+| [0055-jump-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bit Manipulation
 |  |
