@@ -148,14 +148,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -189,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0292-nim-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
