@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0414-third-maximum-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0414-third-maximum-number) |
 ## Trie
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
+| [0414-third-maximum-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Backtracking
 |  |
