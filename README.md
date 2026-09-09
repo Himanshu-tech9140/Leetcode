@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0796-rotate-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0050-powx-n) |
 | [0292-nim-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0292-nim-game) |
+| [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -208,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0404-sum-of-left-leaves](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0404-sum-of-left-leaves) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
