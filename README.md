@@ -214,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
