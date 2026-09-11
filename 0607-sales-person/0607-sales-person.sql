@@ -1,11 +1,10 @@
 SELECT s.name
 FROM SalesPerson s
-LEFT JOIN (
-    SELECT DISTINCT o.sales_id
+WHERE NOT EXISTS (
+    SELECT 1
     FROM Orders o
     JOIN Company c
         ON o.com_id = c.com_id
-    WHERE c.name = 'RED'
-) r
-ON s.sales_id = r.sales_id
-WHERE r.sales_id IS NULL;
+    WHERE o.sales_id = s.sales_id
+      AND c.name = 'RED'
+);
