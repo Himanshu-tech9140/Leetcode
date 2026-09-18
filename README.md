@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0290-word-pattern) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0443-string-compression) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0443-string-compression) |
 ## Math
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
