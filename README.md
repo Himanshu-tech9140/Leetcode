@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0392-is-subsequence) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0290-word-pattern) |
+| [0383-ransom-note](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0409-longest-palindrome) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Brainteaser
