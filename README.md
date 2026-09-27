@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0500-keyboard-row) |
 | [0796-rotate-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/1903-largest-odd-number-in-string) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0500-keyboard-row](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0500-keyboard-row) |
 ## Linked List
 |  |
 | ------- |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0414-third-maximum-number) |
+| [0500-keyboard-row](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0500-keyboard-row) |
 ## Trie
 |  |
 | ------- |
