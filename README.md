@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0077-combinations) |
+| [0257-binary-tree-paths](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
 | ------- |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Binary Search Tree
 |  |
@@ -206,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0404-sum-of-left-leaves) |
 ## Heap (Priority Queue)
 |  |
@@ -245,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0257-binary-tree-paths](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
