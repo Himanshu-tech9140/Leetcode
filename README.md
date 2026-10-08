@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0050-powx-n) |
+| [0263-ugly-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0292-nim-game) |
 | [0367-valid-perfect-square](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0367-valid-perfect-square) |
