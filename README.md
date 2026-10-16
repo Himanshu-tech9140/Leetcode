@@ -179,12 +179,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0055-jump-game) |
 | [0091-decode-ways](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0392-is-subsequence) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
