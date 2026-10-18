@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0441-arranging-coins) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0342-power-of-four) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0029-divide-two-integers) |
 | [0268-missing-number](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
