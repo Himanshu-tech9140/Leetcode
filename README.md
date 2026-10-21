@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0389-find-the-difference) |
+| [0461-hamming-distance](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0461-hamming-distance) |
 ## Quicksort
 |  |
 | ------- |
