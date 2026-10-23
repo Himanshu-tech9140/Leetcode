@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0443-string-compression](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0482-license-key-formatting](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0500-keyboard-row) |
 | [0771-jewels-and-stones](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Himanshu-tech9140/Leetcode/tree/master/0796-rotate-string) |
